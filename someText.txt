@@ -1,0 +1,103 @@
+ac_pass_count:523
+ac_fail_count:371
+as_pass_count:0
+as_fail_count:468
+vc_pass_count:507
+vc_fail_count:1205
+vs_pass_count:135
+vs_fail_count:280
+4k_fromJorge_long_80_42Mbps.webm	19	69	
+A1_out.mp4	24	39	
+Avatar_1080P_H264_Baseline_5Mbps_15fps_AAC.mp4	24	52	
+Avatar_1920x1088_HP_4_20MBPS_30fps_AAC_128kbps_Interlaced_001.mp4	30	52	
+FeelTheBeauty_42Mbps.webm	11	55	
+Godsend_720interlace_AP_wmv9-30fps_10Mbps_192kbpsaudio-L2.wmv	23	63	
+High_Musical_1920x1088_WMV9_AP_30fps_14Mbps_WMA2_192kbps.wmv	17	66	
+Iron_man_720p_23fps_track1.3gp	60	45	
+Lifestyle_1920_1088_MPEG2_Main_High_25Mbps_30fps_interlaced_Video_AAC_Audio.TS	36	45	
+MPEG4SP_640x480_30fps_0600kbps_AAC-LC_256kbps_48khz_ST.mp4	37	46	
+QCOM_1_AAC_1_MP5.1_4096x2160_24fps_VBRpass_70M.mp4	15	71	
+Tangled1920x1088_VP8_ASPL3_30fps_14mbps_AAC_192kbps.MKV	24	46	
+Underwater_4K_MainProfile_70mbps_42Mbps.webm	12	68	
+captainamerica_1080p_MPEG2_24Mbps_30fps_mp3_192s44_1.ts	39	60	
+cornell_1080p_HP_41_20Mbps_CABAC_AAC+_128kbps.mp4	
+hevcD_res_1080P_cfg_ld_ref4_LCU_32_QP_30__tgtBitrate_6000000_Tennis_FR_240.3gp	38	40	
+MSIPTV_DivX5_1280x720_9600kbps_30fps_AACLC_192kbps_44.1KHz.avi	37	48	
+bad_Qtc_50_H264_WVGA_17_32audiotracksamplescorrupted.3gp	30	54	
+SpeedBoat_3840x2160_10bits_60fps_50.4M_HEVC_AAC.mp4	1	79	
+01_AIN_T_MY_BITH_pcm_16bit_mono_44.1KHz_.wav	13	
+07_ORION_INSTRUMENTAL__pcm_16bit_stereo_8KHz_.wav		25	
+13k_fixed_full.qcp	12	3	
+16k.mp3	11	9	
+1KHz_0dB.qcp	8	3	
+24k.mp3	10	6	
+500ms_48KHz_320kbps_stereo_MP3.mp3	20	
+AACHE-adts-stereo-32000KHz-128000Kbps.aac	14	59	
+AMR-WB_Plus_Stereo_23_kbps_48_KHz.3GP	17	53	
+BeautySlept_44_S_adts.aac	17	4	
+BeautySlept_44_S_sig_0_adts.aac	21	2	
+Broken.flac	3	15	
+Girl_pcm_16bit_stereo_32KHz_.wav	18	1	
+GoldWave_test6_4m22s_Vorbis_48kbps_Stereo_44100Hz.ogg	11	5	
+MP3_STEREO_48KHz_128Kbps_led_zeppelin-achilles_last_stand.mp3	11	3	
+MP3_jointstereo_48KHz_led_zepp_no_quarter_clip.mp3	14	5	
+Signals_44_M.wav	14	2	
+Wish_I_Could.flac	2	11	
+surround88.flac	13	7	
+error.ogg		29	
+Saw IV_CBR_200.18sec_45kbps_Mono_48khz.mka		51	
+yesterday_16bit_22_05KHz.m4a		6	
+5.1re_24bit_32khz_error.m4a		16	
+Saw IV_CBR_200.18sec_45kbps_Mono_48khz.ogg		32	
+yesterday_192k_stereo.ape		25	
+Maroon5_30sec_96kpbs_32kHz.oga	4	11	
+02_Lord_Of_The_Flies_pcm_16bit_stereo_44KHz_.ape		17	
+01_Sign_Of_The_Cross_pcm_16bit_stereo_29KHz_BEGINING.ape		26	
+6ch_pcmfile-6_24_192_01.wav		34	
+8ch_channel_id_24_96_1min.wav		26	
+aac_WED6_16_M_32.en.adts.aac	10	55	
+aaclc_al01_08khz_40kbps.mp4	15	3	
+aacpl_al_sbr_24kbps_S_fsaac12khz.mp4	19	1	
+amr-wb_23d05.awb	16	55	
+amr_nb_12.2kbps.amr	8	47	
+chirp_48000_20Hz_5kHz.wav	10	2	
+classical_16_16_1_8000_off_0_off_1_29.wma	12	9	
+dmb_pantala_naga_pampa_pcm_16bit_stereo_48KHz_.wav	19	44	
+eaac_pampa_eaps8kbpsm8khz.3gp	12	2	
+enter_sandman_pcm_16bit_stereo_32KHz_.wav	1	11	
+harvard_1min_evrc_fixed_full.qcp	6	3	
+midi_SEX_CITY_SMAF.mid	10	3	
+midi_butterfly32.mid	8	1	
+mp3_01_ENTERSANDMAN_pcm_16bit_mono_44.1KHz__320kbps_d_resamp_48.mp3	16	6	
+mp3_long_nothing_else_matters_pcm_16bit_stereo_32KHz_160kbps.mp3	5	10	
+nothing_else_matters_pcm_16bit_mono_44.1KHz_.mp3	10	44	
+qcp_synth_8k.qcp	16	35	
+right_left_stereo_wma_9.1_lossless_48KHz_quality_100_VBR_24bit.wma	16	3	
+rightleft_48000.wav	11	2	
+test1_WMA_v7_32kbps_32kHz_2.wma	9	6	
+test2_WMA_v8_96kbps_44kHz_2_WMP71.wma	9	60	
+yesterday_pcm_16bit_stereo_32KHz_.ogg	22	2	
+SUPER_test4_AAC-LTP_v2_Stereo_VBR_256kbps_22050Hz.AAC	4	19	
+_HE-AACv2.ts	14	5	
+Vorbis_mkv_04GoodMorningSunshine.mkv		20	
+aaceld.3gpp	12	2	
+http://astlab-209.na.qualcomm.com/H264/QCOM_1_AAC_1_2160p_10M_34fps_HP5.1_1_1.mp4	11	46	
+http://astlab-209.na.qualcomm.com/Linux/H264/toy3_h264_bp_720p_10M_30fps_AAC_192kbps.3gp	20	26	
+http://astlab-209.na.qualcomm.com/Linux/H264/qtc77_cornell_h264_bp_720p_30fps_10mbps_aac+_stereo_44khz_96kbps_45s.mp4	
+http://astlab-209.na.qualcomm.com/Linux/H264/earth_H264_bp4.1_cavlc_720p_10Mbps_30fps_AAC_128kbps.3gp	26	22	
+http://astlab-209.na.qualcomm.com/MPEG2/cornell_MPEG2_1920x1088_main_high_10Mbps_mp2_160kbps.mpg.TS	1	26	
+http://astlab-209.na.qualcomm.com/Linux/MPEG4/short_music_vid_mpeg4_hp_720p_10Mb_amr.3gp	35	20	
+http://astlab-209.na.qualcomm.com/Linux/MPEG4/cornell_1280x720_MPEG4_ASP_L3_10Mbps_30fps_AAC_128kbps.mp4	18	18	
+http://astlab-209.na.qualcomm.com/Linux/MPEG4/qtc87_cornell_mpeg4_sp_720p_comb_10mbps_aac+_stereo_44khz_96kbps_45s.mp4	
+http://astlab-209.na.qualcomm.com/WMV/LewisClark_720pAP_10Mbps_30fps-L2.wmv		32	
+http://astlab-209.na.qualcomm.com/WMV/GodSend_720pMP_10Mbps_24fps_192kbpsWMA.wmv		38	
+http://astlab-209.qualcomm.com/Audio/aac_WED6_16_M_32.en.adts.aac		55	
+http://astlab-209.qualcomm.com/Audio/AACHE-adts-stereo-32000KHz-128000Kbps.aac		55	
+http://astlab-209.qualcomm.com/Audio/amr_nb_12.2kbps.amr		46	
+http://astlab-209.qualcomm.com/Audio/amr-wb_23d05.awb		52	
+http://astlab-209.qualcomm.com/Audio/nothing_else_matters_pcm_16bit_mono_44.1KHz_.mp3		36	
+http://astlab-209.qualcomm.com/Audio/dmb_pantala_naga_pampa_pcm_16bit_stereo_48KHz_.wav		43	
+http://astlab-209.qualcomm.com/Audio/harvard_1min_qcelp_fixed_full.qcp		46	
+http://astlab-209.qualcomm.com/Audio/qcp_synth_8k.qcp		32	
+http://astlab-209.qualcomm.com/Audio/AMR-WB_Plus_Stereo_23_kbps_48_KHz.3GP		50	
+http://astlab-209.qualcomm.com/Audio/test2_WMA_v8_96kbps_44kHz_2_WMP71.wma		53	
